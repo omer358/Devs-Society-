@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DevsSociety</string>
+    <string name="hint_user_name">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="forget_password_statement">Did you forget the passward?</string>
+    <string name="or">OR</string>
+    <string name="sign_up">Sign up</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name_String">Second Name</string>
+    <string name="username_String">OmerMaki55</string>
+    <string name="email_String">Email</string>
+    <string name="password_String">password</string>
+    <string name="profile_title_string">Profile</string>
+    <string name="confirm_the_password_string">confirm the password</string>
+    <string name="devssociety">DevsSociety</string>
+    <string name="phone_number">phone number</string>
+    <string name="enter_userName">Enter the userName!</string>
+    <string name="login">Login</string>
+    <string name="address">Address</string>
+
+    <string name="bio">Hi, my name is Aleks.
+\n\nI love fish.
+\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+\nFun fact is that I have several aquariums and also a river.
+\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+\nAnd sometimes I even go fishing.
+\nAnd even less sometimes, I actually catch something.
+\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
+\n\nI\'ll be happy to teach you how to make your own aquarium.
+\nYou should ask someone else about fishing, though.\n\n
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender:</string>
+    <string name="posts_string">Posts</string>
+    <string name="followings_text_string">Followings</string>
+    <integer-array name="array">1,2,3,4,5,6,7,8</integer-array>
+</resources>
